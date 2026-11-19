@@ -1,0 +1,8 @@
+{
+  "name": "Summer Getaway Adventures",
+  "description": "Nairobi-based tour operator offering scheduled trips across Kenya, the Middle East, and South Asia with location-matched transport, hotel bookings, half-board meals, and guided tours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
